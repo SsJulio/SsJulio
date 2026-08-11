@@ -4,7 +4,7 @@
 <!-- ANIMAÇÃO DE TEXTO AZUL -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+eu+sou+o+Julio+Soares!;Estudante+de+Sistemas+para+Internet+no+IFPB.;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+eu+sou+Julio+Soares!;Aluno+de+Sistemas+para+Internet+no+IFPB.;Desenvolvedor+em+forma%C3%A7%C3%A3o.;Bem+vindo+(+a+)+ao+meu+Perfil!" alt="Typing SVG" />
   </a>
 </div>
 
