@@ -54,10 +54,8 @@ Olá! Sou o Julio Soares, estudante do último período de Sistemas para Interne
 <!-- PROJETOS EM DESTAQUE (Estilo Isaac) -->
 ### 🚀 Projetos em Destaque
 
-*   🍺 **StockBeer**: Sistema de gerenciamento de estoque para cervejarias desenvolvido durante a disciplina de Gerência de Software. Foco em regras de negócio e controle de fluxo.
-    *   **Techs:** JavaScript, HTML, CSS.
-    *   🔗 [Acessar Repositório](https://github.com/devjulio02/StockBeer) *(Nota: ajuste o link exato do seu repo aqui)*
-
+*   🍺 **StockBeer**: O StockBeer é um sistema web desenvolvido para auxiliar distribuidoras, depósitos e estabelecimentos comerciais no controle de estoque de bebidas. A plataforma permite registrar produtos, monitorar movimentações e acompanhar informações importantes para uma gestão mais eficiente.
+    *   🔗 [Acessar Repositório](https://github.com/devjulio02/StockBeer.git) 
 ---
 
 <!-- GRÁFICO 3D (Estilo Monique) -->
