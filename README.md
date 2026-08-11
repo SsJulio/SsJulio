@@ -1,6 +1,5 @@
 <!-- BANNER CINZA -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=595959&height=120)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=595959&height=120&section=header" />
 <!-- ANIMAÇÃO DE TEXTO (Estilo Jonatas/Isaac) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -58,9 +57,8 @@ Olá! Sou o Julio Soares, estudante do último período de Sistemas para Interne
     *   🔗 [Acessar Repositório](https://github.com/devjulio02/StockBeer.git) 
 ---
 
-<!-- GRÁFICO 3D (Estilo Monique) -->
+<!-- GRÁFICO 3D (Apenas a malha) -->
 ### 📊 Estatísticas 3D de Contribuições
 <div align="center">
-  <!-- A imagem abaixo só vai carregar depois que você configurar a Action do GitHub -->
-  <img src="https://raw.githubusercontent.com/devjulio02/devjulio02/main/profile-3d-contrib/profile-gitblock.svg" alt="Gráfico 3D de Contribuições em tons de cinza" />
+  <img src="./profile-3d-contrib/profile-github-dark.svg" alt="Gráfico 3D de Contribuições Escuro/Cinza" />
 </div>
