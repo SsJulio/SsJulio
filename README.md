@@ -3,7 +3,7 @@
 <!-- ANIMAÇÃO DE TEXTO (Estilo Jonatas/Isaac) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Julio+Soares!;Tenho+24+anos+e+sou+da+Para%C3%ADba.;Estudante+de+Sistemas+para+Internet+no+IFPB.;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=28&pause=1000&color=595959&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Julio+Soares!;Tenho+24+anos+e+sou+da+Para%C3%ADba.;Estudante+de+Sistemas+para+Internet+no+IFPB.;Desenvolvedor+em+forma%C3%A7%C3%A3o.;Bem+Vindo+(+a+)+ao+meu+Perfil." alt="Typing SVG" />
   </a>
 </div>
 
