@@ -44,13 +44,13 @@ Olá! Sou o Julio Soares, estudante universitário da área de tecnologia cursan
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,nodejs" /><br>
 
 **Frameworks e Bibliotecas**<br>
-<img src="https://skillicons.dev/icons?i=spring,flask" /> *(+ SQLAlchemy, React Native)*<br>
+<img src="https://skillicons.dev/icons?i=spring,flask" /><br>
 
 **Banco de Dados**<br>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" /> *(+ RavenDB)*<br>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" /><br>
 
 **Ferramentas e SO**<br>
-<img src="https://skillicons.dev/icons?i=linux,vscode,git,github,docker,postman,figma" /> *(+ Jira, Trello)*<br>
+<img src="https://skillicons.dev/icons?i=linux,vscode,git,github,docker,figma" /><br>
 
 ---
 
