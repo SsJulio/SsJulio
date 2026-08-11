@@ -58,9 +58,7 @@ Olá! Sou o Julio Soares, estudante do último período de Sistemas para Interne
 ---
 
 <!-- GRÁFICO 3D (Apenas a malha) -->
-### 📊 Estatísticas 3D de Contribuições
-<!-- GRÁFICO 3D ANIMADO -->
-### 📊 Estatísticas 3D de Contribuições
+### 📊 Estatísticas do GitHub:
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/devjulio02?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&dark=true" alt="Gráfico 3D Animado" />
 </div>
