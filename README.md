@@ -30,7 +30,7 @@
 
 <!-- SOBRE MIM -->
 ### 👨‍💻 Sobre Mim
-Olá! Sou o Julio Soares, estudante universitário da área de tecnologia cursando o último período de Sistemas para Internet no IFPB. Sou focado no desenvolvimento de soluções eficientes, com forte interesse em arquitetura Back-end e bancos de dados. Gosto de aplicar boas práticas de engenharia de software (como SOLID e DRY) para criar códigos limpos. Atualmente, também atuo com desenvolvimento mobile (React Native) em projetos de pesquisa, o que me dá uma visão completa de ponta a ponta nas aplicações.
+Olá! Sou o Julio Soares, estudante universitário da área de tecnologia cursando o último período de Sistemas para Internet no IFPB. Sou focado no desenvolvimento de soluções eficientes, com forte interesse em arquitetura Back-end. Gosto de aplicar boas práticas para criar códigos limpos. Atualmente, também atuo com desenvolvimento mobile em projetos de pesquisa, o que me dá uma visão completa de ponta a ponta nas aplicações.
 
 ---
 
@@ -38,7 +38,7 @@ Olá! Sou o Julio Soares, estudante universitário da área de tecnologia cursan
 ### 💻 Tecnologias e Ferramentas
 
 **Front-end**<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts" /><br>
 
 **Back-end**<br>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,nodejs" /><br>
