@@ -10,7 +10,7 @@
 
 <!-- REDES SOCIAIS (Estilo Monique) -->
 <div align="center">
-  <a href="www.linkedin.com/in/juliosoaress" target="_blank">
+  <a href="https://www.linkedin.com/in/juliosoaress/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:juliossdias250@gmail.com" target="_blank">
