@@ -29,33 +29,33 @@
 <br>
 
 <!-- SOBRE MIM -->
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim:
 Olá! Sou o Julio Soares, estudante universitário da área de tecnologia cursando o último período de Sistemas para Internet no IFPB. Sou focado no desenvolvimento de soluções eficientes, com forte interesse em arquitetura Back-end. Gosto de aplicar boas práticas para criar códigos limpos. Atualmente, também atuo com desenvolvimento mobile em projetos de pesquisa, o que me dá uma visão completa de ponta a ponta nas aplicações.
 
 ---
 
 <!-- TECNOLOGIAS E FERRAMENTAS -->
-### 💻 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas:
 
-**Front-end**<br>
+**Front-end:**<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" /><br>
 
-**Back-end**<br>
+**Back-end:**<br>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,nodejs" /><br>
 
-**Frameworks e Bibliotecas**<br>
+**Frameworks e Bibliotecas:**<br>
 <img src="https://skillicons.dev/icons?i=spring,flask" /><br>
 
-**Banco de Dados**<br>
+**Banco de Dados:**<br>
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" /><br>
 
-**Ferramentas e SO**<br>
+**Ferramentas e SO:**<br>
 <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,docker,figma" /><br>
 
 ---
 
 <!-- PROJETOS EM DESTAQUE -->
-### 🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque:
 
 *   🍺 **StockBeer**: O StockBeer é um sistema web desenvolvido para auxiliar distribuidoras, depósitos e estabelecimentos comerciais no controle de estoque de bebidas. A plataforma permite registrar produtos, monitorar movimentações e acompanhar informações importantes para uma gestão mais eficiente.
     *   🔗 [Acessar Repositório](https://github.com/devjulio02/StockBeer.git) 
@@ -63,7 +63,7 @@ Olá! Sou o Julio Soares, estudante universitário da área de tecnologia cursan
 ---
 
 <!-- GRÁFICO 3D ANIMADO -->
-### 📊 Estatísticas 3D de Contribuições
+### 📊 Estatísticas do GitHub:
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/devjulio02?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue&dark=true" alt="Gráfico 3D Animado em Azul" />
 </div>
