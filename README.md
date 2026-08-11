@@ -21,8 +21,8 @@
 
 <!-- ESTATÍSTICAS E LINGUAGENS (Painel estilo Isaac) -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjulio02&show_icons=true&theme=dark&bg_color=0D1117&title_color=A9A9A9&text_color=9CA3AF&icon_color=696969&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjulio02&layout=compact&theme=dark&bg_color=0D1117&title_color=A9A9A9&text_color=9CA3AF&hide_border=true" />
+  <img height="195em" src="https://github-stats-extended.vercel.app/api?username=devjulio02&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark" />
+  <img height="195em" src="https://github-stats-extended.vercel.app/api/top-langs?username=devjulio02&layout=compact&langs_count=6&theme=dark" />
 </div>
 
 <br>
