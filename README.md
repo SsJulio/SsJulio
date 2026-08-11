@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- BANNER CINZA -->
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=595959&height=120)
 
-<!--
-**devjulio02/devjulio02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ANIMAÇÃO DE TEXTO (Estilo Jonatas/Isaac) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Julio+Soares!;Tenho+24+anos+e+sou+da+Para%C3%ADba.;Estudante+de+Sistemas+para+Internet+no+IFPB.;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o." alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<!-- REDES SOCIAIS (Estilo Monique) -->
+<div align="center">
+  <a href="https://linkedin.com/in/juliosoress" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:juliossdias250@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- ESTATÍSTICAS E LINGUAGENS (Painel estilo Isaac) -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjulio02&show_icons=true&theme=dark&bg_color=0D1117&title_color=A9A9A9&text_color=9CA3AF&icon_color=696969&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjulio02&layout=compact&theme=dark&bg_color=0D1117&title_color=A9A9A9&text_color=9CA3AF&hide_border=true" />
+</div>
+
+<br>
+
+<!-- SOBRE MIM -->
+### 👨‍💻 Sobre Mim
+Olá! Sou o Julio Soares, estudante do último período de Sistemas para Internet no IFPB. Sou focado no desenvolvimento de soluções eficientes, com forte interesse em arquitetura Back-end e bancos de dados. Gosto de aplicar boas práticas de engenharia de software (como SOLID e DRY) para criar códigos limpos. Atualmente, também atuo com desenvolvimento mobile (React Native) em projetos de pesquisa, o que me dá uma visão completa de ponta a ponta nas aplicações.
+
+---
+
+<!-- TECNOLOGIAS (Estilo Monique) -->
+### 💻 Tecnologias e Ferramentas
+
+**Front-end**<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
+
+**Back-end**<br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,nodejs,spring,flask" /><br>
+
+**Banco de Dados**<br>
+<img src="https://skillicons.dev/icons?i=postgres" /><br>
+
+**Ferramentas e Boas Práticas**<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" /><br>
+
+---
+
+<!-- PROJETOS EM DESTAQUE (Estilo Isaac) -->
+### 🚀 Projetos em Destaque
+
+*   🍺 **StockBeer**: Sistema de gerenciamento de estoque para cervejarias desenvolvido durante a disciplina de Gerência de Software. Foco em regras de negócio e controle de fluxo.
+    *   **Techs:** JavaScript, HTML, CSS.
+    *   🔗 [Acessar Repositório](https://github.com/devjulio02/StockBeer) *(Nota: ajuste o link exato do seu repo aqui)*
+
+---
+
+<!-- GRÁFICO 3D (Estilo Monique) -->
+### 📊 Estatísticas 3D de Contribuições
+<div align="center">
+  <!-- A imagem abaixo só vai carregar depois que você configurar a Action do GitHub -->
+  <img src="https://raw.githubusercontent.com/devjulio02/devjulio02/main/profile-3d-contrib/profile-gitblock.svg" alt="Gráfico 3D de Contribuições em tons de cinza" />
+</div>
