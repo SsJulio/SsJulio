@@ -22,8 +22,8 @@
 
 <!-- ESTATÍSTICAS E LINGUAGENS -->
 <div align="center">
-  <img height="195em" src="https://github-stats-extended.vercel.app/api?username=devjulio02&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark" />
-  <img height="195em" src="https://github-stats-extended.vercel.app/api/top-langs?username=devjulio02&layout=compact&langs_count=6&theme=dark" />
+  <img height="195em" src="https://github-stats-extended.vercel.app/api?username=SsJulio&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark" />
+  <img height="195em" src="https://github-stats-extended.vercel.app/api/top-langs?username=SsJulio&layout=compact&langs_count=6&theme=dark" />
 </div>
 
 <br>
@@ -58,12 +58,12 @@ Olá! Sou o Julio Soares, estudante universitário da área de tecnologia cursan
 ### 🚀 Projetos em Destaque:
 
 *   🍺 **StockBeer**: O StockBeer é um sistema web desenvolvido para auxiliar distribuidoras, depósitos e estabelecimentos comerciais no controle de estoque de bebidas. A plataforma permite registrar produtos, monitorar movimentações e acompanhar informações importantes para uma gestão mais eficiente.
-    *   🔗 [Acessar Repositório](https://github.com/devjulio02/StockBeer.git) 
+    *   🔗 [Acessar Repositório](https://github.com/SsJulio/StockBeer.git) 
 
 ---
 
 <!-- GRÁFICO 3D ANIMADO -->
 ### 📊 Estatísticas do GitHub:
 <div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/devjulio02?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue&dark=true" alt="Gráfico 3D Animado em Azul" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/SsJulio?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue&dark=true" alt="Gráfico 3D Animado em Azul" />
 </div>
