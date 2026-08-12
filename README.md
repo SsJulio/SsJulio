@@ -23,7 +23,7 @@
 <!-- ESTATÍSTICAS E LINGUAGENS -->
 <div align="center">
   <img height="195em" src="https://github-stats-extended.vercel.app/api?username=SsJulio&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark" />
-  <img height="195em" src="https://github-stats-extended.vercel.app/api/top-langs?username=SsJulio&layout=compact&langs_count=6&theme=dark" />
+  <img height="195em" src="https://github-stats-extended.vercel.app/api/top-langs?username=SsJulio&layout=compact&langs_count=8&theme=dark&v=1" />
 </div>
 
 <br>
